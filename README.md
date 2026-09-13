@@ -23,8 +23,8 @@ offer design across regions — not just within a single home market.
 
 ## Contents
 - `Untitled-1.ipynb` — Generate synthetic datasets (Ghana & India), run preprocessing, clustering (GMM, Spectral, DBSCAN/HDBSCAN fallback),
-UMAP/TSNE for visualization, construct similarity graph and spectral embeddings as proxy for GraphSAGE, and produce Figures 1-5 and Tables 1-4.
-- `Untitled-2.ipynb` — PPP-Normalization, Culture-Aware Feature Engineering, Two-Stage Clustering Architecture, LightGBM Model for Churn Prediction, Generate Tables and Figures, and Results.
+UMAP/TSNE for visualisation, construct similarity graph and spectral embeddings as proxy for GraphSAGE, and produce Figures 1-5 and Tables 1-4.
+- `Untitled-2.ipynb` — PPP-Normalisation, Culture-Aware Feature Engineering, Two-Stage Clustering Architecture, LightGBM Model for Churn Prediction, Generate Tables and Figures, and Results.
 
 ## Tech stack
 Python, scikit-learn, pandas
